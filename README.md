@@ -78,9 +78,8 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en.png)
+[<img src="/diploma_en.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/olga-isaeva-qa/olga-isaeva-qa/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20QA%20Studio.png)
 
-<br>
 <br>
 
 ## 🤝 Контакт
